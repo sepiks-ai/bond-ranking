@@ -1,2 +1,2 @@
 # bond-ranking
-The completelly objective ranking of Bond movies
+The completely objective ranking of Bond movies
